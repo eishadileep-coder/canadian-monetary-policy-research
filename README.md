@@ -1,7 +1,5 @@
 # Canadian Monetary Policy and Unemployment (2009-2026)
 
-**Exploratory economics research | Python · Pandas · Statsmodels · Econometrics**
-
 ## Research question
 How does the observed association between the Bank of Canada's policy interest rate and unemployment across four Canadian provinces change with lag choice and model controls?
 
